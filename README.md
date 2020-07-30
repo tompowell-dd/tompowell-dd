@@ -1,4 +1,8 @@
-### Hi there 👋
+### Hi!
+
+I'm a software engineer on DataDog's Build Engineering team. 
+
+This is my work profile, you can find my personal profile [here](https://github.com/zifnab06/), which (_probably_) has more interesting public things. 
 
 <!--
 **tompowell-dd/tompowell-dd** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
